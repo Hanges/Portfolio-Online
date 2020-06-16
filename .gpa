@@ -1,0 +1,4 @@
+echo "[Git Push to Origin]"
+git push origin master
+echo "[Git Push to Dreamhost]"
+git push dreamhost
